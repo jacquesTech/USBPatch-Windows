@@ -1,5 +1,8 @@
 //====================================	START USBPatch By: Brayan Villa	A.K.A	EX3cutioN3R	===================================\\
 
+//                                  CONSIDER MAKING A DONATION FOR MY WORK, WHICH IS YOUR WORK  
+//                                 https://www.paypal.com/donate/?hosted_button_id=E6HF5D5PC2US4      
+          
 //using System;
 //using System.Collections.Generic;
 //using System.Linq;
